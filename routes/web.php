@@ -32,3 +32,21 @@ $router->group(['prefix' => 'api','middleware' => ['XssSanitizer']], function ()
     $router->post('upload','UploadController@upload');
     $router->get('download/{event_id}','ExportController@download');
  });
+
+// No Auth
+$router->group(['prefix' => 'api','middleware' => ['XssSanitizer']], function () use ($router) {
+
+    $router->get('products', 'ProductController@getAll');
+
+
+});
+
+
+
+// With Auth
+$router->group(['prefix' => 'api','middleware' => ['XssSanitizer','auth']], function () use ($router) {
+
+
+    $router->post('products', 'ProductController@addProduct');
+
+});

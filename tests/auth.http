@@ -1,0 +1,10 @@
+x
+
+
+POST https://seapp.fostifest.com/api/login HTTP/1.1
+content-type: application/json
+
+{
+    "email": "alfiankan19@gmail.com",
+    "password": "473550"
+}

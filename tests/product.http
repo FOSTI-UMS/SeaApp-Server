@@ -1,0 +1,2 @@
+GET https://seapp.fostifest.com/api/products HTTP/1.1
+content-type: application/json
