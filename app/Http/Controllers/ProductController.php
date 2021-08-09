@@ -8,7 +8,7 @@ use Illuminate\Support\Facades\Auth;
 use App\Models\Product;
 
 
-class ProductController extends ApiController
+class ProductController extends Controller
 {
 
 
@@ -88,6 +88,12 @@ class ProductController extends ApiController
             array()
         );
         
+    }
+
+    public function wcr()
+    {
+        $currentUser = Auth::user();
+        return $currentUser;
     }
 
 }

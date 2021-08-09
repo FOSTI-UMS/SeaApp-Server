@@ -53,6 +53,8 @@ class AuthController extends Controller
 
         $credentials = $request->only(['email', 'password']);
         
+        
+
         if (! $token = Auth::attempt($credentials)) {
             return $this->apiResponse(
                 $this->error,
@@ -60,8 +62,8 @@ class AuthController extends Controller
                 array()
             );
         }
-
-        return $this->respondWithToken($token);
+        $role = Auth::user();
+        return $this->respondWithToken($token,$role);
     }
 
 

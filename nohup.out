@@ -1,0 +1,268 @@
+[Sun Aug  8 18:39:53 2021] PHP 7.4.3 Development Server (http://0.0.0.0:3636) started
+[Sun Aug  8 18:40:51 2021] 127.0.0.1:40542 Accepted
+[Sun Aug  8 18:40:51 2021] 127.0.0.1:40542 [200]: GET /api/products?page=0&category=1
+[Sun Aug  8 18:40:51 2021] 127.0.0.1:40542 Closing
+[Sun Aug  8 20:17:01 2021] 127.0.0.1:40726 Accepted
+[Sun Aug  8 20:17:01 2021] 127.0.0.1:40726 [200]: GET /api/products?page=0&category=1
+[Sun Aug  8 20:17:01 2021] 127.0.0.1:40726 Closing
+[Sun Aug  8 20:21:55 2021] 127.0.0.1:40732 Accepted
+[Sun Aug  8 20:21:55 2021] 127.0.0.1:40732 [200]: GET /api/products
+[Sun Aug  8 20:21:55 2021] 127.0.0.1:40732 Closing
+[Sun Aug  8 20:41:26 2021] 127.0.0.1:40746 Accepted
+[Sun Aug  8 20:41:26 2021] 127.0.0.1:40746 [200]: GET /api/products?page=0
+[Sun Aug  8 20:41:26 2021] 127.0.0.1:40746 Closing
+[Sun Aug  8 20:41:37 2021] 127.0.0.1:40752 Accepted
+[Sun Aug  8 20:41:37 2021] 127.0.0.1:40752 [200]: GET /api/products?page=0
+[Sun Aug  8 20:41:37 2021] 127.0.0.1:40752 Closing
+[Sun Aug  8 20:41:40 2021] 127.0.0.1:40758 Accepted
+[Sun Aug  8 20:41:40 2021] 127.0.0.1:40758 [200]: GET /api/products?page=0
+[Sun Aug  8 20:41:40 2021] 127.0.0.1:40758 Closing
+[Sun Aug  8 20:41:43 2021] 127.0.0.1:40764 Accepted
+[Sun Aug  8 20:41:43 2021] 127.0.0.1:40764 [200]: GET /api/products?page=0
+[Sun Aug  8 20:41:43 2021] 127.0.0.1:40764 Closing
+[Sun Aug  8 20:46:04 2021] 127.0.0.1:40772 Accepted
+[Sun Aug  8 20:46:04 2021] 127.0.0.1:40772 [200]: GET /api/products?page=0
+[Sun Aug  8 20:46:04 2021] 127.0.0.1:40772 Closing
+[Sun Aug  8 20:46:10 2021] 127.0.0.1:40778 Accepted
+[Sun Aug  8 20:46:10 2021] 127.0.0.1:40778 [200]: GET /api/products?page=0
+[Sun Aug  8 20:46:10 2021] 127.0.0.1:40778 Closing
+[Sun Aug  8 20:46:15 2021] 127.0.0.1:40784 Accepted
+[Sun Aug  8 20:46:15 2021] 127.0.0.1:40784 [200]: GET /api/products?page=0
+[Sun Aug  8 20:46:15 2021] 127.0.0.1:40784 Closing
+[Sun Aug  8 20:49:46 2021] 127.0.0.1:40790 Accepted
+[Sun Aug  8 20:49:46 2021] 127.0.0.1:40790 [200]: GET /api/products?page=0
+[Sun Aug  8 20:49:46 2021] 127.0.0.1:40790 Closing
+[Sun Aug  8 20:49:53 2021] 127.0.0.1:40796 Accepted
+[Sun Aug  8 20:49:53 2021] 127.0.0.1:40796 [200]: GET /api/products?page=0
+[Sun Aug  8 20:49:53 2021] 127.0.0.1:40796 Closing
+[Sun Aug  8 20:49:56 2021] 127.0.0.1:40802 Accepted
+[Sun Aug  8 20:49:56 2021] 127.0.0.1:40802 [200]: GET /api/products?page=0
+[Sun Aug  8 20:49:56 2021] 127.0.0.1:40802 Closing
+[Sun Aug  8 20:50:09 2021] 127.0.0.1:40808 Accepted
+[Sun Aug  8 20:50:09 2021] 127.0.0.1:40808 [200]: GET /api/products?page=0
+[Sun Aug  8 20:50:09 2021] 127.0.0.1:40808 Closing
+[Sun Aug  8 20:50:13 2021] 127.0.0.1:40814 Accepted
+[Sun Aug  8 20:50:13 2021] 127.0.0.1:40814 [200]: GET /api/products?page=0
+[Sun Aug  8 20:50:13 2021] 127.0.0.1:40814 Closing
+[Sun Aug  8 20:50:16 2021] 127.0.0.1:40820 Accepted
+[Sun Aug  8 20:50:16 2021] 127.0.0.1:40820 [200]: GET /api/products?page=0
+[Sun Aug  8 20:50:16 2021] 127.0.0.1:40820 Closing
+[Sun Aug  8 20:50:20 2021] 127.0.0.1:40826 Accepted
+[Sun Aug  8 20:50:20 2021] 127.0.0.1:40826 [200]: GET /api/products?page=0
+[Sun Aug  8 20:50:20 2021] 127.0.0.1:40826 Closing
+[Sun Aug  8 20:50:24 2021] 127.0.0.1:40832 Accepted
+[Sun Aug  8 20:50:24 2021] 127.0.0.1:40832 [200]: GET /api/products?page=0
+[Sun Aug  8 20:50:24 2021] 127.0.0.1:40832 Closing
+[Sun Aug  8 20:50:27 2021] 127.0.0.1:40838 Accepted
+[Sun Aug  8 20:50:27 2021] 127.0.0.1:40838 [200]: GET /api/products?page=0
+[Sun Aug  8 20:50:27 2021] 127.0.0.1:40838 Closing
+[Sun Aug  8 20:50:32 2021] 127.0.0.1:40844 Accepted
+[Sun Aug  8 20:50:32 2021] 127.0.0.1:40844 [200]: GET /api/products?page=0
+[Sun Aug  8 20:50:32 2021] 127.0.0.1:40844 Closing
+[Sun Aug  8 20:50:37 2021] 127.0.0.1:40850 Accepted
+[Sun Aug  8 20:50:37 2021] 127.0.0.1:40850 [200]: GET /api/products?page=0
+[Sun Aug  8 20:50:37 2021] 127.0.0.1:40850 Closing
+[Sun Aug  8 20:50:45 2021] 127.0.0.1:40856 Accepted
+[Sun Aug  8 20:50:45 2021] 127.0.0.1:40856 [200]: GET /api/products?page=0
+[Sun Aug  8 20:50:45 2021] 127.0.0.1:40856 Closing
+[Sun Aug  8 20:50:48 2021] 127.0.0.1:40862 Accepted
+[Sun Aug  8 20:50:48 2021] 127.0.0.1:40862 [200]: GET /api/products?page=0
+[Sun Aug  8 20:50:48 2021] 127.0.0.1:40862 Closing
+[Sun Aug  8 20:51:06 2021] 127.0.0.1:40868 Accepted
+[Sun Aug  8 20:51:06 2021] 127.0.0.1:40868 [200]: GET /api/products?page=0
+[Sun Aug  8 20:51:06 2021] 127.0.0.1:40868 Closing
+[Sun Aug  8 20:51:43 2021] 127.0.0.1:40874 Accepted
+[Sun Aug  8 20:51:43 2021] 127.0.0.1:40874 [200]: GET /api/products?page=0
+[Sun Aug  8 20:51:43 2021] 127.0.0.1:40874 Closing
+[Sun Aug  8 20:52:59 2021] 127.0.0.1:40880 Accepted
+[Sun Aug  8 20:52:59 2021] 127.0.0.1:40880 [200]: GET /api/products?page=0
+[Sun Aug  8 20:52:59 2021] 127.0.0.1:40880 Closing
+[Sun Aug  8 21:08:26 2021] 127.0.0.1:40886 Accepted
+[Sun Aug  8 21:08:26 2021] 127.0.0.1:40886 [200]: GET /api/products?page=0
+[Sun Aug  8 21:08:26 2021] 127.0.0.1:40886 Closing
+[Mon Aug  9 19:11:02 2021] 127.0.0.1:42058 Accepted
+[Mon Aug  9 19:11:02 2021] 127.0.0.1:42058 [200]: POST /api/login
+[Mon Aug  9 19:11:02 2021] 127.0.0.1:42058 Closing
+[Mon Aug  9 19:12:12 2021] 127.0.0.1:42064 Accepted
+[Mon Aug  9 19:12:12 2021] 127.0.0.1:42064 [200]: POST /api/login
+[Mon Aug  9 19:12:12 2021] 127.0.0.1:42064 Closing
+[Mon Aug  9 19:14:07 2021] 127.0.0.1:42070 Accepted
+[Mon Aug  9 19:14:07 2021] 127.0.0.1:42070 [200]: POST /api/products
+[Mon Aug  9 19:14:07 2021] 127.0.0.1:42070 Closing
+[Mon Aug  9 19:17:50 2021] 127.0.0.1:42144 Accepted
+[Mon Aug  9 19:17:50 2021] 127.0.0.1:42144 [500]: POST /api/login
+[Mon Aug  9 19:17:50 2021] 127.0.0.1:42144 Closing
+[Mon Aug  9 19:18:06 2021] 127.0.0.1:42146 Accepted
+[Mon Aug  9 19:18:06 2021] 127.0.0.1:42146 [200]: POST /api/login
+[Mon Aug  9 19:18:06 2021] 127.0.0.1:42146 Closing
+[Mon Aug  9 19:18:22 2021] 127.0.0.1:42152 Accepted
+[Mon Aug  9 19:18:22 2021] 127.0.0.1:42152 [200]: POST /api/login
+[Mon Aug  9 19:18:22 2021] 127.0.0.1:42152 Closing
+[Mon Aug  9 19:18:34 2021] 127.0.0.1:42158 Accepted
+[Mon Aug  9 19:18:34 2021] 127.0.0.1:42158 [200]: POST /api/login
+[Mon Aug  9 19:18:34 2021] 127.0.0.1:42158 Closing
+[Mon Aug  9 20:05:35 2021] 127.0.0.1:42180 Accepted
+[Mon Aug  9 20:05:35 2021] 127.0.0.1:42180 [200]: POST /api/login
+[Mon Aug  9 20:05:35 2021] 127.0.0.1:42180 Closing
+[Mon Aug  9 20:05:41 2021] 127.0.0.1:42186 Accepted
+[Mon Aug  9 20:05:41 2021] 127.0.0.1:42186 [200]: POST /api/login
+[Mon Aug  9 20:05:41 2021] 127.0.0.1:42186 Closing
+[Mon Aug  9 20:05:43 2021] 127.0.0.1:42192 Accepted
+[Mon Aug  9 20:05:43 2021] 127.0.0.1:42192 [200]: POST /api/login
+[Mon Aug  9 20:05:43 2021] 127.0.0.1:42192 Closing
+[Mon Aug  9 20:05:44 2021] 127.0.0.1:42198 Accepted
+[Mon Aug  9 20:05:44 2021] 127.0.0.1:42198 [200]: POST /api/login
+[Mon Aug  9 20:05:44 2021] 127.0.0.1:42198 Closing
+[Mon Aug  9 20:05:45 2021] 127.0.0.1:42204 Accepted
+[Mon Aug  9 20:05:45 2021] 127.0.0.1:42204 [200]: POST /api/login
+[Mon Aug  9 20:05:45 2021] 127.0.0.1:42204 Closing
+[Mon Aug  9 20:05:46 2021] 127.0.0.1:42210 Accepted
+[Mon Aug  9 20:05:46 2021] 127.0.0.1:42210 [200]: POST /api/login
+[Mon Aug  9 20:05:46 2021] 127.0.0.1:42210 Closing
+[Mon Aug  9 20:05:48 2021] 127.0.0.1:42216 Accepted
+[Mon Aug  9 20:05:48 2021] 127.0.0.1:42216 [200]: POST /api/login
+[Mon Aug  9 20:05:48 2021] 127.0.0.1:42216 Closing
+[Mon Aug  9 20:05:49 2021] 127.0.0.1:42222 Accepted
+[Mon Aug  9 20:05:49 2021] 127.0.0.1:42222 [200]: POST /api/login
+[Mon Aug  9 20:05:49 2021] 127.0.0.1:42222 Closing
+[Mon Aug  9 20:06:48 2021] 127.0.0.1:42228 Accepted
+[Mon Aug  9 20:06:48 2021] 127.0.0.1:42228 [200]: POST /api/login
+[Mon Aug  9 20:06:48 2021] 127.0.0.1:42228 Closing
+[Mon Aug  9 20:10:17 2021] 127.0.0.1:42234 Accepted
+[Mon Aug  9 20:10:17 2021] 127.0.0.1:42234 [500]: POST /api/login
+[Mon Aug  9 20:10:17 2021] 127.0.0.1:42234 Closing
+[Mon Aug  9 20:10:27 2021] 127.0.0.1:42240 Accepted
+[Mon Aug  9 20:10:27 2021] 127.0.0.1:42240 [200]: POST /api/login
+[Mon Aug  9 20:10:27 2021] 127.0.0.1:42240 Closing
+[Mon Aug  9 20:10:32 2021] 127.0.0.1:42246 Accepted
+[Mon Aug  9 20:10:32 2021] 127.0.0.1:42246 [500]: POST /api/login
+[Mon Aug  9 20:10:32 2021] 127.0.0.1:42246 Closing
+[Mon Aug  9 20:12:06 2021] 127.0.0.1:42252 Accepted
+[Mon Aug  9 20:12:06 2021] 127.0.0.1:42252 [200]: POST /api/login
+[Mon Aug  9 20:12:06 2021] 127.0.0.1:42252 Closing
+[Mon Aug  9 20:12:33 2021] 127.0.0.1:42258 Accepted
+[Mon Aug  9 20:12:33 2021] 127.0.0.1:42258 [200]: POST /api/login
+[Mon Aug  9 20:12:33 2021] 127.0.0.1:42258 Closing
+[Mon Aug  9 20:13:17 2021] 127.0.0.1:42264 Accepted
+[Mon Aug  9 20:13:18 2021] 127.0.0.1:42264 [200]: POST /api/login
+[Mon Aug  9 20:13:18 2021] 127.0.0.1:42264 Closing
+[Mon Aug  9 20:13:32 2021] 127.0.0.1:42270 Accepted
+[Mon Aug  9 20:13:32 2021] 127.0.0.1:42270 [200]: POST /api/login
+[Mon Aug  9 20:13:32 2021] 127.0.0.1:42270 Closing
+[Mon Aug  9 20:16:26 2021] 127.0.0.1:42276 Accepted
+[Mon Aug  9 20:16:26 2021] 127.0.0.1:42276 [200]: POST /api/login
+[Mon Aug  9 20:16:26 2021] 127.0.0.1:42276 Closing
+[Mon Aug  9 20:44:42 2021] 127.0.0.1:42312 Accepted
+[Mon Aug  9 20:44:43 2021] 127.0.0.1:42312 [200]: POST /api/login
+[Mon Aug  9 20:44:43 2021] 127.0.0.1:42312 Closing
+[Mon Aug  9 20:44:55 2021] 127.0.0.1:42318 Accepted
+[Mon Aug  9 20:44:55 2021] 127.0.0.1:42318 [200]: POST /api/login
+[Mon Aug  9 20:44:55 2021] 127.0.0.1:42318 Closing
+[Mon Aug  9 20:45:20 2021] 127.0.0.1:42324 Accepted
+[Mon Aug  9 20:45:20 2021] 127.0.0.1:42324 [200]: POST /api/login
+[Mon Aug  9 20:45:20 2021] 127.0.0.1:42324 Closing
+[Mon Aug  9 20:45:24 2021] 127.0.0.1:42330 Accepted
+[Mon Aug  9 20:45:24 2021] 127.0.0.1:42330 [200]: POST /api/login
+[Mon Aug  9 20:45:24 2021] 127.0.0.1:42330 Closing
+[Mon Aug  9 20:48:56 2021] 127.0.0.1:42338 Accepted
+[Mon Aug  9 20:48:56 2021] 127.0.0.1:42338 [422]: POST /api/login
+[Mon Aug  9 20:48:56 2021] 127.0.0.1:42338 Closing
+[Mon Aug  9 20:49:25 2021] 127.0.0.1:42340 Accepted
+[Mon Aug  9 20:49:25 2021] 127.0.0.1:42340 [422]: POST /api/login
+[Mon Aug  9 20:49:25 2021] 127.0.0.1:42340 Closing
+[Mon Aug  9 20:49:29 2021] 127.0.0.1:42342 Accepted
+[Mon Aug  9 20:49:29 2021] 127.0.0.1:42342 [422]: POST /api/login
+[Mon Aug  9 20:49:29 2021] 127.0.0.1:42342 Closing
+[Mon Aug  9 20:49:33 2021] 127.0.0.1:42344 Accepted
+[Mon Aug  9 20:49:33 2021] 127.0.0.1:42344 [422]: POST /api/login
+[Mon Aug  9 20:49:33 2021] 127.0.0.1:42344 Closing
+[Mon Aug  9 20:51:21 2021] 127.0.0.1:42374 Accepted
+[Mon Aug  9 20:51:21 2021] 127.0.0.1:42374 [422]: POST /api/login
+[Mon Aug  9 20:51:21 2021] 127.0.0.1:42374 Closing
+[Mon Aug  9 20:51:28 2021] 127.0.0.1:42376 Accepted
+[Mon Aug  9 20:51:28 2021] 127.0.0.1:42376 [422]: POST /api/login
+[Mon Aug  9 20:51:28 2021] 127.0.0.1:42376 Closing
+[Mon Aug  9 20:51:33 2021] 127.0.0.1:42378 Accepted
+[Mon Aug  9 20:51:33 2021] 127.0.0.1:42378 [422]: POST /api/login
+[Mon Aug  9 20:51:33 2021] 127.0.0.1:42378 Closing
+[Mon Aug  9 20:51:35 2021] 127.0.0.1:42380 Accepted
+[Mon Aug  9 20:51:35 2021] 127.0.0.1:42380 [422]: POST /api/login
+[Mon Aug  9 20:51:35 2021] 127.0.0.1:42380 Closing
+[Mon Aug  9 20:51:37 2021] 127.0.0.1:42382 Accepted
+[Mon Aug  9 20:51:37 2021] 127.0.0.1:42382 [422]: POST /api/login
+[Mon Aug  9 20:51:37 2021] 127.0.0.1:42382 Closing
+[Mon Aug  9 20:51:41 2021] 127.0.0.1:42384 Accepted
+[Mon Aug  9 20:51:41 2021] 127.0.0.1:42384 [422]: POST /api/login
+[Mon Aug  9 20:51:41 2021] 127.0.0.1:42384 Closing
+[Mon Aug  9 20:52:32 2021] 127.0.0.1:42386 Accepted
+[Mon Aug  9 20:52:32 2021] 127.0.0.1:42386 [422]: POST /api/login
+[Mon Aug  9 20:52:32 2021] 127.0.0.1:42386 Closing
+[Mon Aug  9 20:52:34 2021] 127.0.0.1:42388 Accepted
+[Mon Aug  9 20:52:34 2021] 127.0.0.1:42388 [422]: POST /api/login
+[Mon Aug  9 20:52:34 2021] 127.0.0.1:42388 Closing
+[Mon Aug  9 20:52:37 2021] 127.0.0.1:42390 Accepted
+[Mon Aug  9 20:52:37 2021] 127.0.0.1:42390 [422]: POST /api/login
+[Mon Aug  9 20:52:37 2021] 127.0.0.1:42390 Closing
+[Mon Aug  9 20:54:28 2021] 127.0.0.1:42392 Accepted
+[Mon Aug  9 20:54:28 2021] 127.0.0.1:42392 [422]: POST /api/login
+[Mon Aug  9 20:54:28 2021] 127.0.0.1:42392 Closing
+[Mon Aug  9 20:56:33 2021] 127.0.0.1:42394 Accepted
+[Mon Aug  9 20:56:33 2021] 127.0.0.1:42394 [422]: POST /api/login
+[Mon Aug  9 20:56:33 2021] 127.0.0.1:42394 Closing
+[Mon Aug  9 21:00:21 2021] 127.0.0.1:42398 Accepted
+[Mon Aug  9 21:00:21 2021] 127.0.0.1:42398 [422]: POST /api/login
+[Mon Aug  9 21:00:21 2021] 127.0.0.1:42398 Closing
+[Mon Aug  9 21:01:32 2021] 127.0.0.1:42400 Accepted
+[Mon Aug  9 21:01:32 2021] 127.0.0.1:42400 [422]: POST /api/login
+[Mon Aug  9 21:01:32 2021] 127.0.0.1:42400 Closing
+[Mon Aug  9 21:01:36 2021] 127.0.0.1:42402 Accepted
+[Mon Aug  9 21:01:36 2021] 127.0.0.1:42402 [422]: POST /api/login
+[Mon Aug  9 21:01:36 2021] 127.0.0.1:42402 Closing
+[Mon Aug  9 21:01:37 2021] 127.0.0.1:42404 Accepted
+[Mon Aug  9 21:01:37 2021] 127.0.0.1:42404 [422]: POST /api/login
+[Mon Aug  9 21:01:37 2021] 127.0.0.1:42404 Closing
+[Mon Aug  9 21:02:45 2021] 127.0.0.1:42406 Accepted
+[Mon Aug  9 21:02:45 2021] 127.0.0.1:42406 [422]: POST /api/login
+[Mon Aug  9 21:02:45 2021] 127.0.0.1:42406 Closing
+[Mon Aug  9 21:02:57 2021] 127.0.0.1:42408 Accepted
+[Mon Aug  9 21:02:57 2021] 127.0.0.1:42408 [200]: POST /api/login
+[Mon Aug  9 21:02:57 2021] 127.0.0.1:42408 Closing
+[Mon Aug  9 21:08:08 2021] 127.0.0.1:42438 Accepted
+[Mon Aug  9 21:08:08 2021] 127.0.0.1:42438 [200]: POST /api/wcr
+[Mon Aug  9 21:08:08 2021] 127.0.0.1:42438 Closing
+[Mon Aug  9 21:08:34 2021] 127.0.0.1:42440 Accepted
+[Mon Aug  9 21:08:34 2021] 127.0.0.1:42440 [200]: POST /api/wcr
+[Mon Aug  9 21:08:34 2021] 127.0.0.1:42440 Closing
+[Mon Aug  9 21:11:45 2021] 127.0.0.1:42610 Accepted
+[Mon Aug  9 21:11:45 2021] 127.0.0.1:42610 [201]: POST /api/register
+[Mon Aug  9 21:11:45 2021] 127.0.0.1:42610 Closing
+[Mon Aug  9 21:11:55 2021] 127.0.0.1:42616 Accepted
+[Mon Aug  9 21:11:55 2021] 127.0.0.1:42616 [200]: POST /api/wcr
+[Mon Aug  9 21:11:55 2021] 127.0.0.1:42616 Closing
+[Mon Aug  9 21:12:13 2021] 127.0.0.1:42622 Accepted
+[Mon Aug  9 21:12:13 2021] 127.0.0.1:42622 [200]: POST /api/login
+[Mon Aug  9 21:12:13 2021] 127.0.0.1:42622 Closing
+[Mon Aug  9 21:12:32 2021] 127.0.0.1:42628 Accepted
+[Mon Aug  9 21:12:32 2021] 127.0.0.1:42628 [200]: POST /api/wcr
+[Mon Aug  9 21:12:32 2021] 127.0.0.1:42628 Closing
+[Mon Aug  9 21:19:13 2021] 127.0.0.1:42646 Accepted
+[Mon Aug  9 21:19:13 2021] 127.0.0.1:42646 [200]: POST /api/login
+[Mon Aug  9 21:19:13 2021] 127.0.0.1:42646 Closing
+[Mon Aug  9 21:19:58 2021] 127.0.0.1:42652 Accepted
+[Mon Aug  9 21:19:58 2021] 127.0.0.1:42652 [200]: POST /api/login
+[Mon Aug  9 21:19:58 2021] 127.0.0.1:42652 Closing
+[Mon Aug  9 21:21:24 2021] 127.0.0.1:42660 Accepted
+[Mon Aug  9 21:21:24 2021] 127.0.0.1:42660 [200]: POST /api/login
+[Mon Aug  9 21:21:24 2021] 127.0.0.1:42660 Closing
+[Mon Aug  9 21:21:48 2021] 127.0.0.1:42666 Accepted
+[Mon Aug  9 21:21:48 2021] 127.0.0.1:42666 [200]: POST /api/login
+[Mon Aug  9 21:21:48 2021] 127.0.0.1:42666 Closing
+[Mon Aug  9 21:26:18 2021] 127.0.0.1:42682 Accepted
+[Mon Aug  9 21:26:18 2021] 127.0.0.1:42682 [422]: POST /api/login
+[Mon Aug  9 21:26:18 2021] 127.0.0.1:42682 Closing
+[Mon Aug  9 21:26:27 2021] 127.0.0.1:42684 Accepted
+[Mon Aug  9 21:26:27 2021] 127.0.0.1:42684 [200]: POST /api/login
+[Mon Aug  9 21:26:27 2021] 127.0.0.1:42684 Closing
+[Mon Aug  9 21:29:49 2021] 127.0.0.1:42690 Accepted
+[Mon Aug  9 21:29:49 2021] 127.0.0.1:42690 [200]: POST /api/login
+[Mon Aug  9 21:29:49 2021] 127.0.0.1:42690 Closing
