@@ -50,4 +50,6 @@ $router->group(['prefix' => 'api','middleware' => ['XssSanitizer','auth']], func
     $router->post('products', 'ProductController@addProduct');
     $router->post('wcr', 'ProductController@wcr');
 
+    $router->get('/seller/products', 'ProductController@getSellerProduct');
+
 });

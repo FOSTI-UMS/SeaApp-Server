@@ -92,8 +92,23 @@ class ProductController extends Controller
 
     public function wcr()
     {
+        $user = 
         $currentUser = Auth::user();
         return $currentUser;
+    }
+
+
+    public function getSellerProduct(Request $request)
+    {
+        $page = $request->query("page","0");
+        $kategori = $request->query("category","all");
+        $user = Auth::user();
+        $data = Product::getAllByUserId($page, $kategori, $user->id);
+        return $this->apiResponse(
+            $this->success,
+            "Berhasil Mendapatkan Data Barang Penjual",
+            $data
+        );
     }
 
 }
